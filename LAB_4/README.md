@@ -1,6 +1,6 @@
 # LAB 4: Image Transformations using Arithmetic and JPEG Compression
 
-This repository contains Python scripts for performing image transformations using OpenCV and Matplotlib. The scripts demonstrate two main operations:
+This folder contains Python scripts for performing image transformations using OpenCV and Matplotlib. The scripts demonstrate two main operations:
 
 - Arithmetic transformations (brightening, darkening, contrast adjustments)
 - JPEG compression with adjustable quality
@@ -51,3 +51,4 @@ Priyanshu Prakash
 
 ---
 Feel free to fork, use, and modify for your digital image processing experiments!
+
